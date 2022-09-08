@@ -384,6 +384,9 @@ footer .logo{
     color:var(--white-color);
     text-decoration: none;
 }
+.contacts{
+    width: 231px;
+}
 .adres-nav{
     color: var(--white-color);
     font-style: normal;

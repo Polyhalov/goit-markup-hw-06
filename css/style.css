@@ -482,6 +482,10 @@ margin-top: 9px;
         cursor: pointer;
         transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+.follow:hover,
+.follow:focus {
+    background-color: var(--button-back-color)
+}
 .icon-follow{
     margin-left: 10px;
 }

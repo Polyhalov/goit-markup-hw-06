@@ -532,7 +532,8 @@ margin-top: 9px;
     align-items: center;
     justify-content: center;
 }
-.modal-close:hover{
+.modal-close:hover,
+.modal-close:focus{
     fill: var(--hover-color);
 }
 .modal-title{
